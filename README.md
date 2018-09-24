@@ -1,1 +1,1 @@
-This is a test project for testing CI builds
+This is a test project for testing CI build
